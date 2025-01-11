@@ -29,4 +29,6 @@ When I’m not coding, I’m:
 - 🎸 Torturing a guitar (with mixed results)  
 - 🎹 Failing spectacularly at piano  
 - ✍️ Occasionally writing  
-- 🚴‍♂️ Riding my bike (to feel virtuous, mostly)  
+- 🚴‍♂️ Riding my bike (to feel virtuous, mostly)
+- ✈️ Traveling across **Europe**, soaking up history, culture, and lots of great food 🍝  
+
