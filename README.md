@@ -30,5 +30,6 @@ When I’m not coding, I’m:
 - 🎹 Failing spectacularly at piano  
 - ✍️ Occasionally writing  
 - 🚴‍♂️ Riding my bike (to feel virtuous, mostly)
-- ✈️ Traveling across **Europe**, soaking up history, culture, and lots of great food 🍝  
+- ✈️ Traveling across **Europe**, soaking up history, culture, and lots of great food 🍝 
+- 👶 And in the little free time left, I’m a child wrangler and snack provider 🍪
 
