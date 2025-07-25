@@ -3,7 +3,7 @@
 ### Bonjour et bienvenue !
 
 Je m'appelle Christophe Donnat, actuellement étudiant développeur junior à 42 Perpignan (France).  
-Après une longue carrière dans des postes à responsabilité dans le secteur commercial, j’ai décidé de plonger dans le monde du code.
+Après une longue carrière à des postes à responsabilité dans le secteur commercial, j’ai décidé de plonger dans le monde du code.
 
 Pourquoi ? Parce que j’aime la technologie. Je crois en la structure, en la logique, et en les algorithmes.  
 J’avais un fort désir de réapprendre, de challenger et stimuler mes capacités cognitives, tout en acquérant un métier créatif où l’on construit réellement quelque chose.  
