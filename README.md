@@ -44,7 +44,11 @@ Each thumbnail links directly to the corresponding GitHub repository.
 
 ## 🚀 Main Projects
 
+| [Minishell](https://github.com/chdonnat/minishell-42) | [MiniRT](https://github.com/chdonnat/minirt-42) | [Philosopher](https://github.com/chdonnat/philosopher-42) | [Inception](https://github.com/chdonnat/inception-42) |
+| --- | --- | --- | --- |
 | [![Minishell](images/minishell_vignette.png)](https://github.com/chdonnat/minishell-42) | [![MiniRT](images/minirt_vignette.png)](https://github.com/chdonnat/minirt-42) | [![Philosopher](images/philosopher_vignette.png)](https://github.com/chdonnat/philosopher-42) | [![Inception](images/inception_vignette.png)](https://github.com/chdonnat/inception-42) |
+
+| [Webserv](https://github.com/chdonnat/webserv-42) | [Born2beroot](https://github.com/chdonnat/born2beroot-42) |  |  |
 | --- | --- | --- | --- |
 | [![Webserv](images/webserv_vignette.png)](https://github.com/chdonnat/webserv-42) | [![Born2beroot](images/born2beroot_vignette.png)](https://github.com/chdonnat/born2beroot-42) |  |  |
 
@@ -52,14 +56,19 @@ Each thumbnail links directly to the corresponding GitHub repository.
 
 ## 🧪 Piscines
 
-| [![Piscine C](images/piscine-c_vignette.png)](https://github.com/chdonnat/piscine-c-42) | [![Piscine Reloaded](images/piscine-reloaded_vignette.png)](https://github.com/chdonnat/piscine-reloaded-42) | [![Piscine C++](images/piscine-cpp_vignette.png)](https://github.com/chdonnat/piscine-cpp-42) |  |
+| [Piscine C](https://github.com/chdonnat/piscine-c-42) | [Piscine Reloaded](https://github.com/chdonnat/piscine-reloaded-42) | [Piscine C++](https://github.com/chdonnat/piscine-cpp-42) |  |
 | --- | --- | --- | --- |
+| [![Piscine C](images/piscine-c_vignette.png)](https://github.com/chdonnat/piscine-c-42) | [![Piscine Reloaded](images/piscine-reloaded_vignette.png)](https://github.com/chdonnat/piscine-reloaded-42) | [![Piscine C++](images/piscine-cpp_vignette.png)](https://github.com/chdonnat/piscine-cpp-42) |  |
 
 ---
 
 ## 🧱 Core Projects
 
-| [![Libft](images/libft_vignette.png)](https://github.com/chdonnat/libft-42) | [![Get Next Line](images/get_next_line_vignette.png)](https://github.com/chdonnat/get_next_line-42) | [![Get Next Soul](images/get_next_soul_vignette.png)](https://github.com/chdonnat/get_next_soul-42) | [![Minitalk](images/minitalk_vignette.png)](https://github.com/chdonnat/minitalk-42) |
+| [Libft](https://github.com/chdonnat/libft-42) | [Get Next Line](https://github.com/chdonnat/get_next_line-42) | [Get Next Soul](https://github.com/chdonnat/get_next_soul-42) | [Minitalk](https://github.com/chdonnat/minitalk-42) |
+| --- | --- | --- | --- |
+| [![Libft](images/libft_vignette.png)](https://github.com/chdonnat/libft-42) | [![GNL](images/get_next_line_vignette.png)](https://github.com/chdonnat/get_next_line-42) | [![GNS](images/get_next_soul_vignette.png)](https://github.com/chdonnat/get_next_soul-42) | [![Minitalk](images/minitalk_vignette.png)](https://github.com/chdonnat/minitalk-42) |
+
+| [Transcendance](https://github.com/chdonnat/transcendance-42) |  |  |  |
 | --- | --- | --- | --- |
 | [![Transcendance](images/transcendance_vignette.png)](https://github.com/chdonnat/transcendance-42) |  |  |  |
 
@@ -67,6 +76,4 @@ Each thumbnail links directly to the corresponding GitHub repository.
 
 > 🖼️ All thumbnails are original illustrations made for each project.  
 > Some are cute. Some are cursed. All are tentacular.
-
-
 
