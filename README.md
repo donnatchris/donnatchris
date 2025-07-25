@@ -44,59 +44,88 @@ Each thumbnail links directly to the corresponding GitHub repository.
 
 ## 🚀 Main Projects
 
-### Minishell  
-[![Minishell](images/minishell_vignette.png)](https://github.com/chdonnat/minishell-42)
+<h3>Minishell</h3>
+<a href="https://github.com/chdonnat/minishell-42">
+  <img src="images/minishell_vignette.png" alt="Minishell" width="200"/>
+</a>
 
-### MiniRT  
-[![MiniRT](images/minirt_vignette.png)](https://github.com/chdonnat/minirt-42)
+<h3>MiniRT</h3>
+<a href="https://github.com/chdonnat/minirt-42">
+  <img src="images/minirt_vignette.png" alt="MiniRT" width="200"/>
+</a>
 
-### Philosopher  
-[![Philosopher](images/philosopher_vignette.png)](https://github.com/chdonnat/philosopher-42)
+<h3>Philosopher</h3>
+<a href="https://github.com/chdonnat/philosopher-42">
+  <img src="images/philosopher_vignette.png" alt="Philosopher" width="200"/>
+</a>
 
-### Inception  
-[![Inception](images/inception_vignette.png)](https://github.com/chdonnat/inception-42)
+<h3>Inception</h3>
+<a href="https://github.com/chdonnat/inception-42">
+  <img src="images/inception_vignette.png" alt="Inception" width="200"/>
+</a>
 
-### Webserv  
-[![Webserv](images/webserv_vignette.png)](https://github.com/chdonnat/webserv-42)
+<h3>Webserv</h3>
+<a href="https://github.com/chdonnat/webserv-42">
+  <img src="images/webserv_vignette.png" alt="Webserv" width="200"/>
+</a>
 
-### Born2beroot  
-[![Born2beroot](images/born2beroot_vignette.png)](https://github.com/chdonnat/born2beroot-42)
+<h3>Born2beroot</h3>
+<a href="https://github.com/chdonnat/born2beroot-42">
+  <img src="images/born2beroot_vignette.png" alt="Born2beroot" width="200"/>
+</a>
 
 ---
 
 ## 🧪 Piscines
 
-### Piscine C  
-[![Piscine C](images/piscine-c_vignette.png)](https://github.com/chdonnat/piscine-c-42)
+<h3>Piscine C</h3>
+<a href="https://github.com/chdonnat/piscine-c-42">
+  <img src="images/piscine-c_vignette.png" alt="Piscine C" width="200"/>
+</a>
 
-### Piscine Reloaded  
-[![Piscine Reloaded](images/piscine-reloaded_vignette.png)](https://github.com/chdonnat/piscine-reloaded-42)
+<h3>Piscine Reloaded</h3>
+<a href="https://github.com/chdonnat/piscine-reloaded-42">
+  <img src="images/piscine-reloaded_vignette.png" alt="Piscine Reloaded" width="200"/>
+</a>
 
-### Piscine C++  
-[![Piscine C++](images/piscine-cpp_vignette.png)](https://github.com/chdonnat/piscine-cpp-42)
+<h3>Piscine C++</h3>
+<a href="https://github.com/chdonnat/piscine-cpp-42">
+  <img src="images/piscine-cpp_vignette.png" alt="Piscine C++" width="200"/>
+</a>
 
 ---
 
 ## 🧱 Core Projects
 
-### Libft  
-[![Libft](images/libft_vignette.png)](https://github.com/chdonnat/libft-42)
+<h3>Libft</h3>
+<a href="https://github.com/chdonnat/libft-42">
+  <img src="images/libft_vignette.png" alt="Libft" width="200"/>
+</a>
 
-### Get Next Line  
-[![Get Next Line](images/get_next_line_vignette.png)](https://github.com/chdonnat/get_next_line-42)
+<h3>Get Next Line</h3>
+<a href="https://github.com/chdonnat/get_next_line-42">
+  <img src="images/get_next_line_vignette.png" alt="Get Next Line" width="200"/>
+</a>
 
-### Get Next Soul *(fan art)*  
-[![Get Next Soul](images/get_next_soul_vignette.png)](https://github.com/chdonnat/get_next_soul-42)
+<h3>Get Next Soul</h3>
+<a href="https://github.com/chdonnat/get_next_soul-42">
+  <img src="images/get_next_soul_vignette.png" alt="Get Next Soul" width="200"/>
+</a>
 
-### Minitalk  
-[![Minitalk](images/minitalk_vignette.png)](https://github.com/chdonnat/minitalk-42)
+<h3>Minitalk</h3>
+<a href="https://github.com/chdonnat/minitalk-42">
+  <img src="images/minitalk_vignette.png" alt="Minitalk" width="200"/>
+</a>
 
-### Transcendance  
-[![Transcendance](images/transcendance_vignette.png)](https://github.com/chdonnat/transcendance-42)
+<h3>Transcendance</h3>
+<a href="https://github.com/chdonnat/transcendance-42">
+  <img src="images/transcendance_vignette.png" alt="Transcendance" width="200"/>
+</a>
 
 ---
 
 > 🖼️ All thumbnails are original illustrations made for each project.  
 > Some are cute. Some are cursed. All are tentacular.
+
 
 
