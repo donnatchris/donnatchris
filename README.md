@@ -21,7 +21,7 @@ This is where you can explore the skills I’ve developed along the way.
 | --- | --- | --- | --- | --- |
 | [![FDF](images/fdf.png)](https://github.com/donnatchris/fdf-42) | [![Minishell](images/minishell.png)](https://github.com/donnatchris/minishell-42) | [![Philosopher](images/philo.png)](https://github.com/donnatchris/philosophers-42) | [![Minitalk](images/minitalk.png)](https://github.com/donnatchris/minitalk-42) | [![Born2BeRoot](images/born2beroot.png)](https://github.com/donnatchris/born2beroot-42) |
 
-| [GetNextLine](https://github.com/donnatchris/get_next_line-42) | [FtPrintf](https://github.com/donnatchris/ft_printf-42) | [Libft](https://github.com/donnatchris/libft-42) | [Piscine Reloaded](https://github.com/donnatchris/piscine-reloaded-42) | [Piscine C](https://github.com/donnatchris/piscine-42) |
+| [Push Swap]() | [GetNextLine](https://github.com/donnatchris/get_next_line-42) | [FtPrintf](https://github.com/donnatchris/ft_printf-42) | [Libft](https://github.com/donnatchris/libft-42) | [Piscine C](https://github.com/donnatchris/piscine-42) |
 | --- | --- | --- | --- | --- |
-| [![GetNextLine](images/gnl.png)](https://github.com/donnatchris/get_next_line-42) | [![FtPrintf](images/printf.png)](https://github.com/donnatchris/ft_printf-42) | [![Libft](images/libft.png)](https://github.com/donnatchris/libft-42) | [![Piscine Reloaded](images/reloaded.png)](https://github.com/donnatchris/piscine-reloaded-42) | [![Piscine C](images/c.png)](https://github.com/donnatchris/piscine-42) |
+| [![Push Swap](images/pushswap.png)]() | [![GetNextLine](images/gnl.png)](https://github.com/donnatchris/get_next_line-42) | [![FtPrintf](images/printf.png)](https://github.com/donnatchris/ft_printf-42) | [![Libft](images/libft.png)](https://github.com/donnatchris/libft-42) | [![Piscine C](images/c.png)](https://github.com/donnatchris/piscine-42) |
 
