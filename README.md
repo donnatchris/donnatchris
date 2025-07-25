@@ -1,3 +1,5 @@
+###### [🇫🇷 Version française](README.fr.md) / [🇬🇧 English version](README.md)
+
 ### Hello and welcome!
 
 I'm Christophe Donnat, currently a junior developer student at 42 Perpignan (France).
