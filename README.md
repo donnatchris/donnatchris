@@ -13,7 +13,7 @@ This is where you can explore the skills I’ve developed along the way.
 
 ### 42 Core curriculum
 
-| [Transcendance]() | [Inception]() | [Webserv]() | [Piscine C++]() | [MiniRT]() |
+| [Transcendance]() | [Inception](https://github.com/donnatchris/inception-42) | [Webserv]() | [Piscine C++]() | [MiniRT]() |
 | --- | --- | --- | --- | --- |
 | [![Transcendance](images/transcendance.png)]() | [![Inception](images/inception.png)]() | [![Webserv](images/webserv.png)]() | [![Piscine C++](images/cpp.png)]() | [![MiniRT](images/minirt.png)]() |
 
