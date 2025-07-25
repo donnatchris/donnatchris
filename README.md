@@ -33,15 +33,9 @@ When I’m not coding, I’m:
 - ✈️ Traveling across **Europe**, soaking up history, culture, and lots of great food 🍝 
 - 👶 And in the little free time left, I’m a child wrangler and snack provider 🍪
 
-## 42 Portfolio – Christophe Donnat
-
-Welcome to my main GitHub repository!  
-This is a visual summary of the projects I completed at 42 (Perpignan campus), featuring a cosmic Cthulhu twist.  
-Each thumbnail links directly to the corresponding GitHub repository.
-
 ---
 
-## 🚀 Custom Project Grid
+## 42 Core curriculum
 
 | [Transcendance]() | [Inception]() | [Webserv]() | [Piscine C++]() | [MiniRT]() |
 | --- | --- | --- | --- | --- |
