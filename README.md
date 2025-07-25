@@ -11,9 +11,6 @@ From my previous career, I bring a strong sense of discipline, responsibility, a
 This GitHub repository is where I store the projects I've completed at 42, usually accompanied by in-depth technical documentation or full tutorials (*-> see below*).
 This is where you can explore the skills I’ve developed along the way.
 
-### A bit about me:
-When I’m not coding, I enjoy playing and composing music, reading (sci-fi, fantasy, and popular science), practicing a bit of sport (cycling, paddle boarding), traveling across Europe, and feeding my two children — both their bellies and their minds.
-
 ---
 
 ## 42 Core curriculum
