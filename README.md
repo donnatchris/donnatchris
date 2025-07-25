@@ -34,162 +34,178 @@ When I’m not coding, I’m:
 - 👶 And in the little free time left, I’m a child wrangler and snack provider 🍪
 
 
-<h1>🐙 42 Portfolio – Christophe Donnat</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>42 Portfolio – Christophe Donnat</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      background: #0b0c10;
+      color: #e5e5e5;
+      padding: 2rem;
+    }
 
-<p>
-Welcome to my main GitHub repository!  
-This is a visual summary of the projects I completed at 42 (Perpignan campus), featuring a cosmic Cthulhu twist.  
-Each thumbnail links directly to the corresponding GitHub repository.
-</p>
+    h1 {
+      text-align: center;
+      margin-bottom: 2rem;
+    }
 
-<hr/>
+    .gallery {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+      gap: 1.5rem;
+      max-width: 1000px;
+      margin: auto;
+    }
 
-<style>
-  .project-row {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    gap: 30px;
-    margin-bottom: 40px;
-  }
-  .project {
-    text-align: center;
-    width: 180px;
-  }
-  .project img {
-    width: 100%;
-    max-width: 160px;
-    border-radius: 8px;
-    transition: transform 0.2s ease;
-  }
-  .project img:hover {
-    transform: scale(1.05);
-  }
-  .project-title {
-    margin-bottom: 8px;
-    font-weight: bold;
-    font-family: sans-serif;
-  }
-</style>
+    .project {
+      text-align: center;
+    }
 
-<div class="project-row">
-  <div class="project">
-    <div class="project-title">
-      <a href="https://github.com/chdonnat/transcendance-42">Transcendance</a>
-    </div>
-    <a href="https://github.com/chdonnat/transcendance-42">
-      <img src="images/transcendance_vignette.png" alt="Transcendance">
-    </a>
-  </div>
-  <div class="project">
-    <div class="project-title">
-      <a href="https://github.com/chdonnat/inception-42">Inception</a>
-    </div>
-    <a href="https://github.com/chdonnat/inception-42">
-      <img src="images/inception_vignette.png" alt="Inception">
-    </a>
-  </div>
-  <div class="project">
-    <div class="project-title">
-      <a href="https://github.com/chdonnat/webserv-42">Webserv</a>
-    </div>
-    <a href="https://github.com/chdonnat/webserv-42">
-      <img src="images/webserv_vignette.png" alt="Webserv">
-    </a>
-  </div>
-  <div class="project">
-    <div class="project-title">
-      <a href="https://github.com/chdonnat/piscine-cpp-42">Piscine C++</a>
-    </div>
-    <a href="https://github.com/chdonnat/piscine-cpp-42">
-      <img src="images/piscine-cpp_vignette.png" alt="Piscine C++">
-    </a>
-  </div>
-</div>
+    .project-title {
+      margin-bottom: 0.5rem;
+    }
 
-<div class="project-row">
-  <div class="project">
-    <div class="project-title">
-      <a href="https://github.com/chdonnat/minirt-42">MiniRT</a>
-    </div>
-    <a href="https://github.com/chdonnat/minirt-42">
-      <img src="images/minirt_vignette.png" alt="MiniRT">
-    </a>
-  </div>
-  <div class="project">
-    <div class="project-title">
-      <a href="https://github.com/chdonnat/minishell-42">Minishell</a>
-    </div>
-    <a href="https://github.com/chdonnat/minishell-42">
-      <img src="images/minishell_vignette.png" alt="Minishell">
-    </a>
-  </div>
-  <div class="project">
-    <div class="project-title">
-      <a href="https://github.com/chdonnat/philosopher-42">Philosopher</a>
-    </div>
-    <a href="https://github.com/chdonnat/philosopher-42">
-      <img src="images/philosopher_vignette.png" alt="Philosopher">
-    </a>
-  </div>
-</div>
+    .project-title a {
+      color: #61dafb;
+      text-decoration: none;
+      font-weight: bold;
+    }
 
-<div class="project-row">
-  <div class="project">
-    <div class="project-title">
-      <a href="https://github.com/chdonnat/fdf-42">FDF</a>
-    </div>
-    <a href="https://github.com/chdonnat/fdf-42">
-      <img src="images/fdf_vignette.png" alt="FDF">
-    </a>
-  </div>
-  <div class="project">
-    <div class="project-title">
-      <a href="https://github.com/chdonnat/get_next_line-42">Get Next Line</a>
-    </div>
-    <a href="https://github.com/chdonnat/get_next_line-42">
-      <img src="images/get_next_line_vignette.png" alt="Get Next Line">
-    </a>
-  </div>
-  <div class="project">
-    <div class="project-title">
-      <a href="https://github.com/chdonnat/ft_printf-42">ft_printf</a>
-    </div>
-    <a href="https://github.com/chdonnat/ft_printf-42">
-      <img src="images/ft_printf_vignette.png" alt="ft_printf">
-    </a>
-  </div>
-  <div class="project">
-    <div class="project-title">
-      <a href="https://github.com/chdonnat/libft-42">Libft</a>
-    </div>
-    <a href="https://github.com/chdonnat/libft-42">
-      <img src="images/libft_vignette.png" alt="Libft">
-    </a>
-  </div>
-</div>
+    .project-title a:hover {
+      text-decoration: underline;
+    }
 
-<div class="project-row">
-  <div class="project">
-    <div class="project-title">
-      <a href="https://github.com/chdonnat/piscine-reloaded-42">Piscine Reloaded</a>
-    </div>
-    <a href="https://github.com/chdonnat/piscine-reloaded-42">
-      <img src="images/piscine-reloaded_vignette.png" alt="Piscine Reloaded">
-    </a>
-  </div>
-  <div class="project">
-    <div class="project-title">
-      <a href="https://github.com/chdonnat/piscine-c-42">Piscine C</a>
-    </div>
-    <a href="https://github.com/chdonnat/piscine-c-42">
-      <img src="images/piscine-c_vignette.png" alt="Piscine C">
-    </a>
-  </div>
-</div>
+    .project img {
+      width: 100%;
+      max-width: 160px;
+      border-radius: 10px;
+      cursor: zoom-in;
+      transition: transform 0.2s ease;
+    }
 
-<hr/>
+    .project img:hover {
+      transform: scale(1.05);
+    }
 
-<p><em>🖼️ All thumbnails are original illustrations made for each project.  
-Some are cute. Some are cursed. All are tentacular.</em></p>
+    /* Lightbox */
+    .lightbox {
+      display: none;
+      position: fixed;
+      z-index: 999;
+      top: 0; left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0,0,0,0.9);
+      justify-content: center;
+      align-items: center;
+    }
+
+    .lightbox img {
+      max-width: 90%;
+      max-height: 90%;
+      border-radius: 12px;
+    }
+
+    .lightbox:target {
+      display: flex;
+    }
+
+    .lightbox-close {
+      position: absolute;
+      top: 30px;
+      right: 40px;
+      color: white;
+      font-size: 2rem;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    .note {
+      margin-top: 2rem;
+      text-align: center;
+      font-style: italic;
+      color: #bbb;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>🐙 42 Portfolio – Christophe Donnat</h1>
+
+  <div class="gallery">
+    <!-- Exemple d’un projet -->
+    <div class="project">
+      <div class="project-title">
+        <a href="https://github.com/chdonnat/transcendance-42" target="_blank">Transcendance</a>
+      </div>
+      <a href="#lightbox-transcendance">
+        <img src="images/transcendance_vignette.png" alt="Transcendance">
+      </a>
+    </div>
+
+    <!-- Répète pour chaque projet -->
+    <div class="project">
+      <div class="project-title">
+        <a href="https://github.com/chdonnat/inception-42" target="_blank">Inception</a>
+      </div>
+      <a href="#lightbox-inception">
+        <img src="images/inception_vignette.png" alt="Inception">
+      </a>
+    </div>
+
+    <div class="project">
+      <div class="project-title">
+        <a href="https://github.com/chdonnat/webserv-42" target="_blank">Webserv</a>
+      </div>
+      <a href="#lightbox-webserv">
+        <img src="images/webserv_vignette.png" alt="Webserv">
+      </a>
+    </div>
+
+    <div class="project">
+      <div class="project-title">
+        <a href="https://github.com/chdonnat/piscine-cpp-42" target="_blank">Piscine C++</a>
+      </div>
+      <a href="#lightbox-cpp">
+        <img src="images/piscine-cpp_vignette.png" alt="Piscine C++">
+      </a>
+    </div>
+
+    <!-- Ajoute ici les autres projets exactement dans le même style -->
+
+  </div>
+
+  <!-- Lightboxes -->
+  <div id="lightbox-transcendance" class="lightbox">
+    <a href="#" class="lightbox-close">&times;</a>
+    <img src="images/transcendance_vignette.png" alt="Transcendance">
+  </div>
+
+  <div id="lightbox-inception" class="lightbox">
+    <a href="#" class="lightbox-close">&times;</a>
+    <img src="images/inception_vignette.png" alt="Inception">
+  </div>
+
+  <div id="lightbox-webserv" class="lightbox">
+    <a href="#" class="lightbox-close">&times;</a>
+    <img src="images/webserv_vignette.png" alt="Webserv">
+  </div>
+
+  <div id="lightbox-cpp" class="lightbox">
+    <a href="#" class="lightbox-close">&times;</a>
+    <img src="images/piscine-cpp_vignette.png" alt="Piscine C++">
+  </div>
+
+  <p class="note">
+    🖼️ All thumbnails are original illustrations made for each project.<br>
+    Some are cute. Some are cursed. All are tentacular.
+  </p>
+
+</body>
+</html>
+
 
