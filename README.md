@@ -33,7 +33,7 @@ When I’m not coding, I’m:
 - ✈️ Traveling across **Europe**, soaking up history, culture, and lots of great food 🍝 
 - 👶 And in the little free time left, I’m a child wrangler and snack provider 🍪
 
-# 🐙 42 Portfolio – Christophe Donnat
+## 42 Portfolio – Christophe Donnat
 
 Welcome to my main GitHub repository!  
 This is a visual summary of the projects I completed at 42 (Perpignan campus), featuring a cosmic Cthulhu twist.  
@@ -51,7 +51,7 @@ Each thumbnail links directly to the corresponding GitHub repository.
 | --- | --- | --- | --- |
 | [![MiniRT](images/minirt_vignette.png)](https://github.com/chdonnat/minirt-42) | [![Minishell](images/minishell_vignette.png)](https://github.com/chdonnat/minishell-42) | [![Philosopher](images/philo_vignette.png)](https://github.com/chdonnat/philosopher-42) | [![FDF](images/fdf_vignette.png)](https://github.com/chdonnat/fdf-42)  |
 
-| | [Get Next Line](https://github.com/chdonnat/get_next_line-42) | [ft_printf](https://github.com/chdonnat/ft_printf-42) | [Libft](https://github.com/chdonnat/libft-42) |
+| [Get Next Line](https://github.com/chdonnat/get_next_line-42) | [ft_printf](https://github.com/chdonnat/ft_printf-42) | [Libft](https://github.com/chdonnat/libft-42) |
 | --- | --- | --- | --- |
 | | [![Get Next Line](images/get_next_line_vignette.png)](https://github.com/chdonnat/get_next_line-42) | [![ft_printf](images/ft_printf_vignette.png)](https://github.com/chdonnat/ft_printf-42) | [![Libft](images/libft_vignette.png)](https://github.com/chdonnat/libft-42) |
 
