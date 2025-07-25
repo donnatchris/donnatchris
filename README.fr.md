@@ -1,4 +1,4 @@
-####### [🇫🇷 Version française](README.fr.md) / [🇬🇧 English version](README.md)
+###### [🇫🇷 Version française](README.fr.md) / [🇬🇧 English version](README.md)
 
 ### Bonjour et bienvenue !
 
