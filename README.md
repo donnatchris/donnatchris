@@ -3,8 +3,7 @@
 I'm Christophe Donnat, currently a junior developer student at 42 Perpignan (France).
 After a long career holding management positions in the commercial sector, I decided to dive into the world of code.
 
-### Why?
-Because I love technology. I believe in structure, logic, and algorithms.
+Why? Because I love technology. I believe in structure, logic, and algorithms.
 I had a strong desire to learn again, to challenge and stimulate my cognitive abilities, while acquiring a creative profession where you actually build something.
 From my previous career, I bring a strong sense of discipline, responsibility, and optimization — qualities that I now apply daily in the world of tech.
 
