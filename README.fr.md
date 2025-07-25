@@ -2,15 +2,15 @@
 
 ### Bonjour et bienvenue !
 
-Je m'appelle Christophe Donnat, actuellement étudiant développeur junior à 42 Perpignan (France).  
+Je m'appelle Christophe Donnat, actuellement étudiant développeur junior à 42 Perpignan (France).
 Après une longue carrière à des postes à responsabilité dans le secteur commercial, j’ai décidé de plonger dans le monde du code.
 
-Pourquoi ? Parce que j’aime la technologie. Je crois en la structure, en la logique, et en les algorithmes.  
-J’avais un fort désir de réapprendre, de challenger et stimuler mes capacités cognitives, tout en acquérant un métier créatif où l’on construit réellement quelque chose.  
+Pourquoi ? Parce que j’aime la technologie. Je crois en la structure, la logique, et les algorithmes.
+J’avais un fort désir de réapprendre, de challenger et stimuler mes capacités cognitives, tout en acquérant un métier créatif où l’on construit réellement quelque chose.
 De ma carrière précédente, je garde un grand sens de la discipline, de la responsabilité et de l’optimisation — des qualités que j’applique désormais au quotidien dans le domaine de la tech.
 
 ### Qu’est-ce que je fais ici ?  
-Ce dépôt GitHub regroupe les projets que j’ai réalisés à 42, souvent accompagnés de documentations techniques approfondies ou de tutoriels complets.  
+Ce dépôt GitHub regroupe les projets que j’ai réalisés à 42, généralement accompagnés de documentations techniques approfondies ou de tutoriels complets.
 Vous pouvez y découvrir les compétences que j’ai développées tout au long de mon parcours.
 
 ### Cursus principal de 42
