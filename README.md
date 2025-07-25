@@ -13,11 +13,11 @@ This is where you can explore the skills I’ve developed along the way.
 
 ### 42 Core curriculum
 
-| [Transcendance]() | [Inception](https://github.com/donnatchris/inception-42) | [Webserv](https://github.com/donnatchris/webserv-42) | [Piscine C++](https://github.com/donnatchris/piscine-cpp-42) | [MiniRT](https://github.com/donnatchris/minirt-42) |
+| [Transcendance]() | [Inception](https://github.com/donnatchris/inception-42) | [Webserv](https://github.com/donnatchris/webserv-42) | [Piscine C++](https://github.com/donnatchris/piscine-cpp-42) | [Mini RT](https://github.com/donnatchris/minirt-42) |
 | --- | --- | --- | --- | --- |
 | [![Transcendance](images/transcendance.png)]() | [![Inception](images/inception.png)](https://github.com/donnatchris/inception-42) | [![Webserv](images/webserv.png)](https://github.com/donnatchris/webserv-42) | [![Piscine C++](images/cpp.png)](https://github.com/donnatchris/piscine-cpp-42) | [![MiniRT](images/minirt.png)](https://github.com/donnatchris/minirt-42) |
 
-| [FDF.........](https://github.com/donnatchris/fdf-42) | [Minishell](https://github.com/donnatchris/minishell-42) | [Philosopher](https://github.com/donnatchris/philosophers-42) | [Minitalk](https://github.com/donnatchris/minitalk-42) | [Born2BeRoot](https://github.com/donnatchris/born2beroot-42) |
+| [FilDeFer](https://github.com/donnatchris/fdf-42) | [Minishell](https://github.com/donnatchris/minishell-42) | [Philosopher](https://github.com/donnatchris/philosophers-42) | [Minitalk](https://github.com/donnatchris/minitalk-42) | [Born2BeRoot](https://github.com/donnatchris/born2beroot-42) |
 | --- | --- | --- | --- | --- |
 | [![FDF](images/fdf.png)](https://github.com/donnatchris/fdf-42) | [![Minishell](images/minishell.png)](https://github.com/donnatchris/minishell-42) | [![Philosopher](images/philo.png)](https://github.com/donnatchris/philosophers-42) | [![Minitalk](images/minitalk.png)](https://github.com/donnatchris/minitalk-42) | [![Born2BeRoot](images/born2beroot.png)](https://github.com/donnatchris/born2beroot-42) |
 
