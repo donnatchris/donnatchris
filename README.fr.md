@@ -1,7 +1,5 @@
 ###### [🇫🇷 Version française](README.fr.md) / [🇬🇧 English version](README.md)
 
-Voici la traduction en français avec mise en forme Markdown conservée :
-
 ### Bonjour et bienvenue !
 
 Je m'appelle Christophe Donnat, actuellement étudiant développeur junior à 42 Perpignan (France).  
