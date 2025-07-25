@@ -45,7 +45,7 @@ Each thumbnail links directly to the corresponding GitHub repository.
 
 | [Transcendance](https://github.com/chdonnat/transcendance-42) | [Inception](https://github.com/chdonnat/inception-42) | [Webserv](https://github.com/chdonnat/webserv-42) | [Piscine C++](https://github.com/chdonnat/piscine-cpp-42) | [MiniRT](https://github.com/chdonnat/minirt-42) |
 | --- | --- | --- | --- | --- |
-| [![Transcendance](images/transcendance_vignette.png)](https://github.com/chdonnat/transcendance-42) | [![Inception](images/inception_miniature.png)](https://github.com/chdonnat/inception-42) | [![Webserv](images/webserv_vignette.png)](https://github.com/chdonnat/webserv-42) | [![Piscine C++](images/poolcpp_vignette.png)](https://github.com/chdonnat/piscine-cpp-42) | [![MiniRT](images/minirt_vignette.png)(https://github.com/chdonnat/minirt-42) |
+| [![Transcendance](images/transcendance_vignette.png)](https://github.com/chdonnat/transcendance-42) | [![Inception](images/inception_miniature.png)](https://github.com/chdonnat/inception-42) | [![Webserv](images/webserv_vignette.png)](https://github.com/chdonnat/webserv-42) | [![Piscine C++](images/poolcpp_vignette.png)](https://github.com/chdonnat/piscine-cpp-42) | [![MiniRT](images/minirt_vignette.png)](https://github.com/chdonnat/minirt-42) |
 
  | [Minishell](https://github.com/chdonnat/minishell-42) | [Philosopher](https://github.com/chdonnat/philosopher-42) | [FDF](https://github.com/chdonnat/fdf-42) |
 | --- | --- | --- | --- |
