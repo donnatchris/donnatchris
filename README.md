@@ -47,6 +47,10 @@ Each thumbnail links directly to the corresponding GitHub repository.
 | --- | --- | --- | --- | --- |
 | [![Transcendance](images/transcendance.png)]() | [![Inception](images/inception.png)]() | [![Webserv](images/webserv.png)]() | [![Piscine C++](images/cpp.png)]() | [![MiniRT](images/minirt.png)]() |
 
+| [Minishell]() | [Philosopher]() | [FDF]() | [Minitalk]() | [GetNextLine]() |
+| --- | --- | --- | --- | --- |
+| [![Minishell](images/minishell.png)]() | [![Philosopher](images/philo.png)]() | [![FDF](images/fdf.png)]() | [![Minitalk](images/minitalk.png)]() | [![GetNextLine](images/gnl.png)]() |
+
 | [Minishell](https://github.com/chdonnat/minishell-42) | [Philosopher](https://github.com/chdonnat/philosopher-42) | [FDF](https://github.com/chdonnat/fdf-42) | [Get Next Line](https://github.com/chdonnat/get_next_line-42) 
 
 | [![Minishell](images/minishell_vignette.png)](https://github.com/chdonnat/minishell-42) | [![Philosopher](images/philo_vignette.png)](https://github.com/chdonnat/philosopher-42) | [![FDF](images/fdf_vignette.png)](https://github.com/chdonnat/fdf-42) |  | [![GetNextLine](images/gnl_vignette.png)](github.com/chdonnat/get-next-line-42) |  [![ft_printf](images/printf_vignette.png)](https://github.com/chdonnat/ft_printf-42) |
