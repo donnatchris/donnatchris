@@ -1,5 +1,18 @@
 ###### [🇫🇷 Version française](README.fr.md) / [🇬🇧 English version](README.md)
 
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Docker--Compose-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</p>
+
+
 ### Hello and welcome!
 
 I'm Christophe Donnat, currently a junior developer student at 42 Perpignan (France).
