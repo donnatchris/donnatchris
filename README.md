@@ -11,9 +11,7 @@ From my previous career, I bring a strong sense of discipline, responsibility, a
 This GitHub repository is where I store the projects I've completed at 42, usually accompanied by in-depth technical documentation or full tutorials.
 This is where you can explore the skills I’ve developed along the way.
 
----
-
-## 42 Core curriculum
+### 42 Core curriculum
 
 | [Transcendance]() | [Inception]() | [Webserv]() | [Piscine C++]() | [MiniRT]() |
 | --- | --- | --- | --- | --- |
