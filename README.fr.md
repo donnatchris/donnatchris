@@ -1,19 +1,21 @@
 ###### [🇫🇷 Version française](README.fr.md) / [🇬🇧 English version](README.md)
 
-### Hello and welcome!
+Voici la traduction en français avec mise en forme Markdown conservée :
 
-I'm Christophe Donnat, currently a junior developer student at 42 Perpignan (France).
-After a long career holding management positions in the commercial sector, I decided to dive into the world of code.
+### Bonjour et bienvenue !
 
-Why? Because I love technology. I believe in structure, logic, and algorithms.
-I had a strong desire to learn again, to challenge and stimulate my cognitive abilities, while acquiring a creative profession where you actually build something.
-From my previous career, I bring a strong sense of discipline, responsibility, and optimization — qualities that I now apply daily in the world of tech.
+Je m'appelle Christophe Donnat, actuellement étudiant développeur junior à 42 Perpignan (France).  
+Après une longue carrière dans des postes à responsabilité dans le secteur commercial, j’ai décidé de plonger dans le monde du code.
 
-### What am I doing here?
-This GitHub repository is where I store the projects I've completed at 42, usually accompanied by in-depth technical documentation or full tutorials.
-This is where you can explore the skills I’ve developed along the way.
+Pourquoi ? Parce que j’aime la technologie. Je crois en la structure, en la logique, et en les algorithmes.  
+J’avais un fort désir de réapprendre, de challenger et stimuler mes capacités cognitives, tout en acquérant un métier créatif où l’on construit réellement quelque chose.  
+De ma carrière précédente, je garde un grand sens de la discipline, de la responsabilité et de l’optimisation — des qualités que j’applique désormais au quotidien dans le domaine de la tech.
 
-### 42 Core curriculum
+### Qu’est-ce que je fais ici ?  
+Ce dépôt GitHub regroupe les projets que j’ai réalisés à 42, souvent accompagnés de documentations techniques approfondies ou de tutoriels complets.  
+Vous pouvez y découvrir les compétences que j’ai développées tout au long de mon parcours.
+
+### Cursus principal de 42
 
 | [Transcendance]() | [Inception](https://github.com/donnatchris/inception-42) | [Webserv](https://github.com/donnatchris/webserv-42) | [Piscine C++](https://github.com/donnatchris/piscine-cpp-42) | [Mini RT](https://github.com/donnatchris/minirt-42) |
 | --- | --- | --- | --- | --- |
