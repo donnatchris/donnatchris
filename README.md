@@ -47,25 +47,11 @@ Each thumbnail links directly to the corresponding GitHub repository.
 | --- | --- | --- | --- | --- |
 | [![Transcendance](images/transcendance.png)]() | [![Inception](images/inception.png)]() | [![Webserv](images/webserv.png)]() | [![Piscine C++](images/cpp.png)]() | [![MiniRT](images/minirt.png)]() |
 
-| [Minishell]() | [Philosopher]() | [FDF]() | [Minitalk]() | [GetNextLine]() |
+| [FDF]() | [Minishell]() | [Philosopher]() | [Minitalk]() | [GetNextLine]() |
 | --- | --- | --- | --- | --- |
-| [![Minishell](images/minishell.png)]() | [![Philosopher](images/philo.png)]() | [![FDF](images/fdf.png)]() | [![Minitalk](images/minitalk.png)]() | [![GetNextLine](images/gnl.png)]() |
+| [![FDF](images/fdf.png)]() | [![Minishell](images/minishell.png)]() | [![Philosopher](images/philo.png)]() | [![Minitalk](images/minitalk.png)]() | [![GetNextLine](images/gnl.png)]() |
 
-| [Minishell](https://github.com/chdonnat/minishell-42) | [Philosopher](https://github.com/chdonnat/philosopher-42) | [FDF](https://github.com/chdonnat/fdf-42) | [Get Next Line](https://github.com/chdonnat/get_next_line-42) 
-
-| [![Minishell](images/minishell_vignette.png)](https://github.com/chdonnat/minishell-42) | [![Philosopher](images/philo_vignette.png)](https://github.com/chdonnat/philosopher-42) | [![FDF](images/fdf_vignette.png)](https://github.com/chdonnat/fdf-42) |  | [![GetNextLine](images/gnl_vignette.png)](github.com/chdonnat/get-next-line-42) |  [![ft_printf](images/printf_vignette.png)](https://github.com/chdonnat/ft_printf-42) |
-
-[Libft](https://github.com/chdonnat/libft-42) |
-| --- | --- | --- | --- |
-| [ft_printf](https://github.com/chdonnat/ft_printf-42) |
-| --- | --- | --- | --- | --- || [![Libft](images/libft_vignette.png)](https://github.com/chdonnat/libft-42) |
-
-| [Piscine Reloaded](https://github.com/chdonnat/piscine-reloaded-42) | [Piscine C](https://github.com/chdonnat/piscine-c-42) |  |  |
-| --- | --- | --- | --- |
-| [![Piscine Reloaded](images/piscine-reloaded_vignette.png)](https://github.com/chdonnat/piscine-reloaded-42) | [![Piscine C](images/piscine-c_vignette.png)](https://github.com/chdonnat/piscine-c-42) |  |  |
-
----
-
-> 🖼️ All thumbnails are original illustrations made for each project.  
-> Some are cute. Some are cursed. All are tentacular.
+| [Ft_printf]() | [FtPrintf]() | [Libft]() | [Piscine Reloaded]() | [Piscine C]() |
+| --- | --- | --- | --- | --- |
+| [![Transcendance](images/transcendance.png)]() | [![FtPrintf](images/inception.png)]() | [![Libft](images/webserv.png)]() | [![Piscine Reloaded](images/cpp.png)]() | [![Piscine C](images/minirt.png)]() |
 
