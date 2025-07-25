@@ -47,11 +47,11 @@ Each thumbnail links directly to the corresponding GitHub repository.
 | --- | --- | --- | --- | --- |
 | [![Transcendance](images/transcendance.png)]() | [![Inception](images/inception.png)]() | [![Webserv](images/webserv.png)]() | [![Piscine C++](images/cpp.png)]() | [![MiniRT](images/minirt.png)]() |
 
-| [FDF]() | [Minishell]() | [Philosopher]() | [Minitalk]() | [GetNextLine]() |
+| [FDF]() | [Minishell]() | [Philosopher]() | [Minitalk]() | [Born2BeRoot]() |
 | --- | --- | --- | --- | --- |
-| [![FDF](images/fdf.png)]() | [![Minishell](images/minishell.png)]() | [![Philosopher](images/philo.png)]() | [![Minitalk](images/minitalk.png)]() | [![GetNextLine](images/gnl.png)]() |
+| [![FDF](images/fdf.png)]() | [![Minishell](images/minishell.png)]() | [![Philosopher](images/philo.png)]() | [![Minitalk](images/minitalk.png)]() | [![Born2BeRoot](images/born2beroot.png)]() |
 
-| [Ft_printf]() | [FtPrintf]() | [Libft]() | [Piscine Reloaded]() | [Piscine C]() |
+| [GetNextLine]() | [FtPrintf]() | [Libft]() | [Piscine Reloaded]() | [Piscine C]() |
 | --- | --- | --- | --- | --- |
-| [![Transcendance](images/transcendance.png)]() | [![FtPrintf](images/inception.png)]() | [![Libft](images/webserv.png)]() | [![Piscine Reloaded](images/cpp.png)]() | [![Piscine C](images/minirt.png)]() |
+| [![Transcendance](images/gnl.png)]() | [![FtPrintf](images/printf.png)]() | [![Libft](images/libft.png)]() | [![Piscine Reloaded](images/reloaded.png)]() | [![Piscine C](images/c.png)]() |
 
