@@ -49,7 +49,9 @@ Each thumbnail links directly to the corresponding GitHub repository.
 
 | [MiniRT](https://github.com/chdonnat/minirt-42) | [Minishell](https://github.com/chdonnat/minishell-42) | [Philosopher](https://github.com/chdonnat/philosopher-42) |  |
 | --- | --- | --- | --- |
-| [![MiniRT](images/minirt_vignette.png)](https://github.com/chdonnat/minirt-42) | [![Minishell](images/minishell_vignette.png)](https://github.com/chdonnat/minishell-42) | [![Philosopher](images/philosopher_vignette.png)](https://github.com/chdonnat/philosopher-42) |  |
+| [![MiniRT](images/minirt_vignette.png)](https://github.com/chdonnat/minirt-42)
+| [![Minishell](images/minishell_vignette.png)](https://github.com/chdonnat/minishell-42)
+| [![Philosopher](images/philoso_vignette.png)](https://github.com/chdonnat/philosopher-42) |  |
 
 | [FDF](https://github.com/chdonnat/fdf-42) | [Get Next Line](https://github.com/chdonnat/get_next_line-42) | [ft_printf](https://github.com/chdonnat/ft_printf-42) | [Libft](https://github.com/chdonnat/libft-42) |
 | --- | --- | --- | --- |
