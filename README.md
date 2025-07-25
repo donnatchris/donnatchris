@@ -44,83 +44,24 @@ Each thumbnail links directly to the corresponding GitHub repository.
 
 ## 🚀 Main Projects
 
-<h3>Minishell</h3>
-<a href="https://github.com/chdonnat/minishell-42">
-  <img src="images/minishell_vignette.png" alt="Minishell" width="200"/>
-</a>
-
-<h3>MiniRT</h3>
-<a href="https://github.com/chdonnat/minirt-42">
-  <img src="images/minirt_vignette.png" alt="MiniRT" width="200"/>
-</a>
-
-<h3>Philosopher</h3>
-<a href="https://github.com/chdonnat/philosopher-42">
-  <img src="images/philosopher_vignette.png" alt="Philosopher" width="200"/>
-</a>
-
-<h3>Inception</h3>
-<a href="https://github.com/chdonnat/inception-42">
-  <img src="images/inception_vignette.png" alt="Inception" width="200"/>
-</a>
-
-<h3>Webserv</h3>
-<a href="https://github.com/chdonnat/webserv-42">
-  <img src="images/webserv_vignette.png" alt="Webserv" width="200"/>
-</a>
-
-<h3>Born2beroot</h3>
-<a href="https://github.com/chdonnat/born2beroot-42">
-  <img src="images/born2beroot_vignette.png" alt="Born2beroot" width="200"/>
-</a>
+| [![Minishell](images/minishell_vignette.png)](https://github.com/chdonnat/minishell-42) | [![MiniRT](images/minirt_vignette.png)](https://github.com/chdonnat/minirt-42) | [![Philosopher](images/philosopher_vignette.png)](https://github.com/chdonnat/philosopher-42) | [![Inception](images/inception_vignette.png)](https://github.com/chdonnat/inception-42) |
+| --- | --- | --- | --- |
+| [![Webserv](images/webserv_vignette.png)](https://github.com/chdonnat/webserv-42) | [![Born2beroot](images/born2beroot_vignette.png)](https://github.com/chdonnat/born2beroot-42) |  |  |
 
 ---
 
 ## 🧪 Piscines
 
-<h3>Piscine C</h3>
-<a href="https://github.com/chdonnat/piscine-c-42">
-  <img src="images/piscine-c_vignette.png" alt="Piscine C" width="200"/>
-</a>
-
-<h3>Piscine Reloaded</h3>
-<a href="https://github.com/chdonnat/piscine-reloaded-42">
-  <img src="images/piscine-reloaded_vignette.png" alt="Piscine Reloaded" width="200"/>
-</a>
-
-<h3>Piscine C++</h3>
-<a href="https://github.com/chdonnat/piscine-cpp-42">
-  <img src="images/piscine-cpp_vignette.png" alt="Piscine C++" width="200"/>
-</a>
+| [![Piscine C](images/piscine-c_vignette.png)](https://github.com/chdonnat/piscine-c-42) | [![Piscine Reloaded](images/piscine-reloaded_vignette.png)](https://github.com/chdonnat/piscine-reloaded-42) | [![Piscine C++](images/piscine-cpp_vignette.png)](https://github.com/chdonnat/piscine-cpp-42) |  |
+| --- | --- | --- | --- |
 
 ---
 
 ## 🧱 Core Projects
 
-<h3>Libft</h3>
-<a href="https://github.com/chdonnat/libft-42">
-  <img src="images/libft_vignette.png" alt="Libft" width="200"/>
-</a>
-
-<h3>Get Next Line</h3>
-<a href="https://github.com/chdonnat/get_next_line-42">
-  <img src="images/get_next_line_vignette.png" alt="Get Next Line" width="200"/>
-</a>
-
-<h3>Get Next Soul</h3>
-<a href="https://github.com/chdonnat/get_next_soul-42">
-  <img src="images/get_next_soul_vignette.png" alt="Get Next Soul" width="200"/>
-</a>
-
-<h3>Minitalk</h3>
-<a href="https://github.com/chdonnat/minitalk-42">
-  <img src="images/minitalk_vignette.png" alt="Minitalk" width="200"/>
-</a>
-
-<h3>Transcendance</h3>
-<a href="https://github.com/chdonnat/transcendance-42">
-  <img src="images/transcendance_vignette.png" alt="Transcendance" width="200"/>
-</a>
+| [![Libft](images/libft_vignette.png)](https://github.com/chdonnat/libft-42) | [![Get Next Line](images/get_next_line_vignette.png)](https://github.com/chdonnat/get_next_line-42) | [![Get Next Soul](images/get_next_soul_vignette.png)](https://github.com/chdonnat/get_next_soul-42) | [![Minitalk](images/minitalk_vignette.png)](https://github.com/chdonnat/minitalk-42) |
+| --- | --- | --- | --- |
+| [![Transcendance](images/transcendance_vignette.png)](https://github.com/chdonnat/transcendance-42) |  |  |  |
 
 ---
 
