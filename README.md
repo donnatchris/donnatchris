@@ -15,7 +15,7 @@ This is where you can explore the skills I’ve developed along the way.
 
 ### 42 Core curriculum
 
-| [Transcendance]([https://github.com/donnatchris/ft_transcendance/README.md](https://github.com/donnatchris/ft_transcendance/blob/main/README.md)) | [Inception](https://github.com/donnatchris/inception-42/blob/main/README.md) | [Webserv](https://github.com/donnatchris/webserv-42/blob/main/README.md) | [Piscine C++](https://github.com/donnatchris/piscine-cpp-42/blob/main/README.md) | [Mini RT](https://github.com/donnatchris/minirt-42/blob/main/README.md) |
+| [Transcendance]([https://github.com/donnatchris/ft_transcendance/blob/main/README.md](https://github.com/donnatchris/ft_transcendance/blob/main/README.md)) | [Inception](https://github.com/donnatchris/inception-42/blob/main/README.md) | [Webserv](https://github.com/donnatchris/webserv-42/blob/main/README.md) | [Piscine C++](https://github.com/donnatchris/piscine-cpp-42/blob/main/README.md) | [Mini RT](https://github.com/donnatchris/minirt-42/blob/main/README.md) |
 | --- | --- | --- | --- | --- |
 | [![Transcendance](images/transcendance.png)]() | [![Inception](images/inception.png)](https://github.com/donnatchris/inception-42/blob/main/README.md) | [![Webserv](images/webserv.png)](https://github.com/donnatchris/webserv-42/blob/main/README.md) | [![Piscine C++](images/cpp.png)](https://github.com/donnatchris/piscine-cpp-42/blob/main/README.md) | [![MiniRT](images/minirt.png)](https://github.com/donnatchris/minirt-42/blob/main/README.md) |
 
