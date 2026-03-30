@@ -14,19 +14,38 @@ Ce dépôt GitHub regroupe les projets que j’ai réalisés à 42, généraleme
 Vous pouvez y découvrir les compétences que j’ai développées tout au long de mon parcours.
 
 ### Actualité récente
-Depuis décembre 2025 je développe une plateforme web intitulée **La Ressourcerie** pour les musées d'Occitanie. Cette plateforme est destinée à faciliter les échanges de matériel muséographique entre les différents acteurs de la région, dans une démarche de mutualisation des ressources à la fois écologique et économique.
-Ce projet étant privé, le repo n'est pas accessible publiquement.
 
-Il seprésente un peu comme un site marchand, mais pour le prêt et uniquement pour les professionnels des musées.
+Depuis décembre 2025, je développe **La Ressourcerie**, une plateforme web dédiée aux musées d’Occitanie.
 
-Réalisé en collaboration avec les équipes partenaires de l'association des musées d'Occitanie afin d'être au plus prêt de leurs attentes et de leurs retours, j'ai déjà développé les fonctionnalités suivantes:
-Taxonomie détaillée, gestion administrateur, gestion fine des droits et permissions, enregistrement et édition détaillés d'articles de muséographie, recherche au sein du catalogue (par type, par caractéristique, par rayon kilomètrique, ...), système de réservations et disponibilités, suivi des transactions, génération automatisée de convention de prêt, notifications in-app et par mail...
+🎯 **Problème**  
+Des réserves saturées, des budgets en baisse, et en parallèle des besoins ponctuels non couverts.
 
-D'autres fonctionnalités arrivent bientôt: système de panier pour préparer son exposition, wishlist, matching intelligent, etc.
+💡 **Solution**  
+Une plateforme de mutualisation permettant aux musées de **prêter, réserver et partager du matériel muséographique** simplement, entre professionnels.
 
-Vous pouvez visiter la page d'accueil uniquement car la Ressourcerie étant destiné à un interne exclusivement, ses services sont accessibles seulement sur invitation d'un professionnel en charge de l'un des musées de la région Occitanie.
+**Ce que j’ai construit**  
+- Catalogue structuré avec taxonomie avancée  
+- Recherche multi-critères (type, caractéristiques, rayon géographique…)  
+- Gestion fine des rôles, droits et organisations  
+- Système complet de réservation et de disponibilités  
+- Workflow de transactions (demande, validation, prêt, retour…)  
+- Génération automatique de conventions de prêt  
+- Notifications temps réel (in-app + e-mail)  
+- Dashboard de suivi
 
-https://ressourcerie.musees-occitanie.fr/
+**Ce qui arrive**  
+- Panier pour préparer une exposition  
+- Wishlist (expression de besoins)  
+- Matching intelligent entre offre et demande  
+
+**Approche**  
+Produit conçu **avec et pour les musées**, en développement agile: collaboration directe avec les équipes terrain (rencontres pour recueillir leurs besoins et leurs attentes, tests, retours quotidiens, itérations rapides).
+
+**Accès**  
+Projet privé (repository non public).  
+Plateforme accessible uniquement sur invitation.
+
+👉 https://ressourcerie.musees-occitanie.fr/
 
 ### Cursus principal de 42
 
