@@ -47,6 +47,21 @@ Plateforme accessible uniquement sur invitation.
 
 👉 https://ressourcerie.musees-occitanie.fr/
 
+### Stack & savoir-faire
+
+- **Langages** : TypeScript, JavaScript, C, C++, quelques bases en python
+- **Frontend** : Next.js, React, TailwindCSS  
+- **Backend** : Node.js, Supabase  
+- **Base de données** : PostgreSQL  
+- **Infra** : Docker  
+
+**Savoir-faire**  
+- Développement full-stack (web apps complètes)  
+- Modélisation de données et logique métier  
+- Gestion des droits et sécurité  
+- Conception de workflows complexes  
+- Programmation bas niveau (C / C++, école 42)  
+
 ### Cursus principal de 42
 
 | [Transcendance](https://github.com/donnatchris/ft_transcendance/blob/main/README.md) | [Inception](https://github.com/donnatchris/inception-42/blob/main/README.md) | [Webserv](https://github.com/donnatchris/webserv-42/blob/main/README.md) | [Piscine C++](https://github.com/donnatchris/piscine-cpp-42/blob/main/README.md) | [Mini RT](https://github.com/donnatchris/minirt-42/blob/main/README.md) |
