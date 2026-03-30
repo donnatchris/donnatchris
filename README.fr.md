@@ -26,7 +26,7 @@ D'autres fonctionnalités arrivent bientôt: système de panier pour préparer s
 
 Vous pouvez visiter la page d'accueil uniquement car la Ressourcerie étant destiné à un interne exclusivement, ses services sont accessibles seulement sur invitation d'un professionnel en charge de l'un des musées de la région Occitanie.
 
-> https://ressourcerie.musees-occitanie.fr/
+https://ressourcerie.musees-occitanie.fr/
 
 ### Cursus principal de 42
 
