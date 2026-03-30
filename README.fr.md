@@ -2,16 +2,27 @@
 
 ### Bonjour et bienvenue !
 
-Je m'appelle Christophe Donnat, actuellement étudiant développeur junior à 42 Perpignan (France).
+Je m'appelle Christophe Donnat, actuellement étudiant développeur à 42 Perpignan (France) en stage professionnel pour les musées d'Occitanie.
 Après une longue carrière à des postes à responsabilité dans le secteur commercial, j’ai décidé de plonger dans le monde du code.
 
-Pourquoi ? Parce que j’aime la technologie. Je crois en la structure, la logique, et les algorithmes.
+Pourquoi ? Parce que j’aime la technologie. Je crois en la structure, la logique, et l'algorithmie.
 J’avais un fort désir d'apprendre à nouveau, de challenger et stimuler mes capacités cognitives, tout en acquérant un métier créatif où l’on construit réellement quelque chose.
 De ma carrière précédente, je garde un grand sens de la discipline, de la responsabilité et de l’optimisation — des qualités que j’applique désormais au quotidien dans le domaine de la tech.
 
 ### Qu’est-ce que je fais ici ?  
 Ce dépôt GitHub regroupe les projets que j’ai réalisés à 42, généralement accompagnés de documentations techniques approfondies ou de tutoriels complets.
 Vous pouvez y découvrir les compétences que j’ai développées tout au long de mon parcours.
+
+### Actualité récente
+Depuis décembre 2025 je développe une plateforme web intitulée **La Ressourcerie** pour les musées d'Occitanie. Cette plateforme est destinée à faciliter les échanges de matériel muséographique entre les différents acteurs de la région, dans une démarche de mutualisation des ressources à la fois écologique et économique.
+Ce projet étant privé, le repo n'est pas accessible publiquement.
+Il seprésente un peu comme un site marchand, mais pour le prêt et uniquement pour les professionnels des musées.
+Réalisé en collaboration avec les équipes partenaires de l'association des musées d'Occitanie afin d'être au plus prêt de leurs attentes et de leurs retours, j'ai déjà développé les fonctionnalités suivantes:
+Taxonomie détaillée, gestion administrateur, gestion fine des droits et permissions, enregistrement et édition détaillés d'articles de muséographie, recherche au sein du catalogue (par type, par caractéristique, par rayon kilomètrique, ...), système de réservations et disponibilités, suivi des transactions, génération automatisée de convention de prêt, notifications in-app et par mail...
+D'autres fonctionnalités arrivent bientôt: système de panier pour préparer son exposition, wishlist, matching intelligent, etc.
+Vous pouvez visiter la page d'accueil uniquement car la Ressourcerie étant destiné à un interne exclusivement, ses services sont accessibles seulement sur invitation d'un professionnel en charge de l'un des musées de la région Occitanie.
+
+> https://ressourcerie.musees-occitanie.fr/
 
 ### Cursus principal de 42
 
