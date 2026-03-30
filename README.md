@@ -13,6 +13,40 @@ From my previous career, I bring a strong sense of discipline, responsibility, a
 This GitHub repository is where I store the projects I've completed at 42, usually accompanied by in-depth technical documentation or full tutorials.
 This is where you can explore the skills I’ve developed along the way.
 
+### Recent Work
+
+Since December 2025, I have been developing **La Ressourcerie**, a web platform dedicated to museums in the Occitanie region.
+
+**Problem**  
+Overloaded storage facilities, shrinking budgets, and at the same time, unmet short-term needs.
+
+**Solution**  
+A resource-sharing platform that enables museums to **lend, reserve, and share exhibition equipment** easily between professionals.
+
+**What I’ve built**  
+- Structured catalog with advanced taxonomy  
+- Multi-criteria search (type, characteristics, geographic radius…)  
+- Fine-grained management of roles, permissions, and organizations  
+- Complete reservation and availability system  
+- Transaction workflow (request, validation, dispatch, return…)  
+- Automated loan agreement generation  
+- Real-time notifications (in-app + email)  
+- Monitoring dashboard  
+
+**Coming next**  
+- Cart system to prepare exhibitions  
+- Wishlist (expressing needs)  
+- Intelligent matching between supply and demand  
+
+**Approach**  
+A product designed **with and for museums**, in close collaboration with field teams (testing, daily feedback, rapid iterations).
+
+**Access**  
+Private project (repository not publicly available).  
+Platform accessible by invitation only.
+
+👉 https://ressourcerie.musees-occitanie.fr/
+
 ### 42 Core curriculum
 
 | [Transcendance](https://github.com/donnatchris/ft_transcendance/blob/main/README.md) | [Inception](https://github.com/donnatchris/inception-42/blob/main/README.md) | [Webserv](https://github.com/donnatchris/webserv-42/blob/main/README.md) | [Piscine C++](https://github.com/donnatchris/piscine-cpp-42/blob/main/README.md) | [Mini RT](https://github.com/donnatchris/minirt-42/blob/main/README.md) |
