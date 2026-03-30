@@ -47,6 +47,21 @@ Platform accessible by invitation only.
 
 👉 https://ressourcerie.musees-occitanie.fr/
 
+### Stack & Skills
+
+- **Languages**: TypeScript, JavaScript, C, C++, basic knowledge of Python  
+- **Frontend**: Next.js, React, TailwindCSS  
+- **Backend**: Node.js, Supabase  
+- **Database**: PostgreSQL  
+- **Infrastructure**: Docker  
+
+**Skills**  
+- Full-stack development (complete web applications)  
+- Data modeling and business logic design  
+- Access control and security management  
+- Design of complex workflows  
+- Low-level programming (C / C++, 42 school)  
+
 ### 42 Core curriculum
 
 | [Transcendance](https://github.com/donnatchris/ft_transcendance/blob/main/README.md) | [Inception](https://github.com/donnatchris/inception-42/blob/main/README.md) | [Webserv](https://github.com/donnatchris/webserv-42/blob/main/README.md) | [Piscine C++](https://github.com/donnatchris/piscine-cpp-42/blob/main/README.md) | [Mini RT](https://github.com/donnatchris/minirt-42/blob/main/README.md) |
