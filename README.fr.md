@@ -17,10 +17,10 @@ Vous pouvez y découvrir les compétences que j’ai développées tout au long 
 
 Depuis décembre 2025, je développe **La Ressourcerie**, une plateforme web dédiée aux musées d’Occitanie.
 
-🎯 **Problème**  
+**Problème**  
 Des réserves saturées, des budgets en baisse, et en parallèle des besoins ponctuels non couverts.
 
-💡 **Solution**  
+**Solution**  
 Une plateforme de mutualisation permettant aux musées de **prêter, réserver et partager du matériel muséographique** simplement, entre professionnels.
 
 **Ce que j’ai construit**  
